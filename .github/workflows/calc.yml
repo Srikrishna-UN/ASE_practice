@@ -17,4 +17,4 @@ jobs:
 
     - name: Run Calculator
       run: |
-        python -u bs.py  # Replace 'calculator.py' with the name of your Python calculator script
+        python -u bs.py 
