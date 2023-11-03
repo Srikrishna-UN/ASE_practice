@@ -18,3 +18,4 @@ jobs:
     - name: Run Calculator
       run: |
         python -u next.py 
+        python -u bs.py
